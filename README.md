@@ -7,3 +7,7 @@ This project implements a Masonry Grid Slider that displays a set of items, and 
 **2. Hover Effect: Each item in the grid shows a button when hovered over.**  
 **3. Video Popup: Clicking the button opens a video popup with a custom video player.**  
 **4. Tiny Slider Integration: Utilizes Tiny Slider for smooth animations and responsiveness.**  
+
+## 🛠️ Installation
+1. git clone git@github.com:ShuvoGhosh77/Masonry-Grid-Slider-with-Video-Popup.git
+
